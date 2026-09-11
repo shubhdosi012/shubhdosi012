@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shubh Dosi 👋
 
-<!--
-**shubhdosi012/shubhdosi012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## B.Tech CSE (AI & ML) Student
 
-Here are some ideas to get you started:
+🎓 JECRC University, Jaipur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning:
+- C Programming
+- Python
+- Git & GitHub
+- Data Structures
+- Artificial Intelligence
+- Machine Learning
+
+🚀 Current Projects:
+- C Programming Lab
+- Smart India Hackathon 2026
+
+📜 Certifications:
+- IBM Data Science Methodology 101
+
+### Connect With Me
+
+GitHub:
+https://github.com/shubhdosi012
