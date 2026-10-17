@@ -30,6 +30,8 @@ A Lovable-assisted student project exploring a product storefront and inventory 
 ### 2. Personal Developer Portfolio
 A personal website presenting my background, skills in progress, learning journey, and projects. Built with Lovable using HTML, CSS, and JavaScript.
 
+![Portfolio website preview](https://raw.githubusercontent.com/shubhdosi012/my-portfolio/main/portfolio-website.jpg)
+
 - [Source code](https://github.com/shubhdosi012/my-portfolio)
 
 ### 3. C Programming Lab
