@@ -28,7 +28,7 @@ A Lovable-assisted student project exploring a product storefront and inventory 
 - [Live demo](https://ecommerce-inventory-management-six.vercel.app/)
 
 ### 2. Personal Developer Portfolio
-A personal website presenting my background, skills in progress, learning journey, and projects. Built with HTML, CSS, and JavaScript using an AI-assisted workflow.
+A personal website presenting my background, skills in progress, learning journey, and projects. Built with Lovable using HTML, CSS, and JavaScript.
 
 - [Source code](https://github.com/shubhdosi012/my-portfolio)
 
