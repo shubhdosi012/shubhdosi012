@@ -20,25 +20,25 @@ I am building strong programming fundamentals through college coursework, indepe
 
 My original portfolio website, built with HTML, CSS, and JavaScript to present my background, learning progress, and projects.
 
-[Source code](https://github.com/shubhdosi012/my-portfolio)
+[Source code](https://github.com/shubhdosi012/Shubh-Portfolio) · [Website](https://shubhdosi012.github.io/Shubh-Portfolio/)
 
 ### E-Commerce Inventory Management — Lovable college project
 
 A college AI-class project exploring a sample product storefront and inventory dashboard.
 
-[Source code](https://github.com/shubhdosi012/ecommerce-inventory-management) · [Live demo](https://ecommerce-inventory-management-six.vercel.app/)
+[Source code](https://github.com/shubhdosi012/ecommerce-class-project) · [Live demo](https://ecommerce-inventory-management-six.vercel.app/)
 
 ### Shubh Dosi Verse — Lovable college project
 
 A separate AI-class portfolio-style website created with Lovable to explore responsive UI and AI-assisted development.
 
-[Source code](https://github.com/shubhdosi012/shubh-dosi-verse)
+[Source code](https://github.com/shubhdosi012/shubh-class-project)
 
-### C Programming Lab
+### Programming Lab
 
 C fundamentals, Python exercises, small projects, and a practice tracker.
 
-[Source code](https://github.com/shubhdosi012/C-Programming-Lab)
+[Source code](https://github.com/shubhdosi012/Programming-Lab)
 
 ## How I learn
 
